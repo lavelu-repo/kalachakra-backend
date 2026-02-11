@@ -1,0 +1,7 @@
+[project]
+name = "kalachakra-backend"
+version = "0.1.0"
+description = "Backend API for KalaChakra - Vedic astrology with astronomical precision"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
