@@ -20,6 +20,7 @@ class AppConfig(BaseSettings):
     EPHEMERIS_PATH: str = "./ephe"
     ZODIAC_TYPE: str = "tropical" # tropical | sidereal
     AYANAMSA: str = "LAHIRI" # LAHIRI | RAMAN | KRISHNAMURTI
+    USE_TRUE_NODE: bool = True # True | False
 
 
 settings = AppConfig()

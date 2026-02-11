@@ -1,3 +1,5 @@
+"""Health check endpoint."""
+
 from fastapi import APIRouter
 from pydantic import BaseModel
 

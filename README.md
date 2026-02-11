@@ -8,6 +8,8 @@ This is description
 
 The Swiss Ephemeris splits history into 600-year blocks to keep file sizes manageable. The files are named by category and century. For a standard project covering the years 1800 AD – 2399 AD, you only need these core binary files:
 
+https://github.com/aloistr/swisseph
+
 - Planets: `sepl_18.se1` (covers 1800–2399 AD).
 - Moon: `semo_18.se1` (high-precision lunar data).
 - Main Asteroids: `seas_18.se1` (includes Ceres, Pallas, Juno, Vesta, and Chiron).
