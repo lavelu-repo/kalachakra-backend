@@ -2,7 +2,7 @@
 
 Astronomical & Vedic astrology calculation API.
 
-KalaChakra provides tropical and sidereal planetary positions, lunar nodes, equatorial coordinates, retrograde detection, and advanced Sadbala () planetary strength calculations through a modern FastAPI backend.
+KalaChakra provides tropical and sidereal planetary positions, lunar nodes, equatorial coordinates, retrograde detection, and advanced Sadbala (ஷட்பலம்) planetary strength calculations through a modern FastAPI backend.
 
 ---
 
